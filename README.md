@@ -22,7 +22,7 @@ After this week you will:
 ## Social Engineering
 
 * [What is Social Engineering](https://www.csoonline.com/article/2124681/social-engineering/what-is-social-engineering.html)
-* [Social Engineering - Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security)
+* [Social Engineering - Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 * [Video](https://youtu.be/lc7scxvKQOo)
 
 I øvrigt, hvad er forskellen på disse links:
@@ -38,3 +38,9 @@ https://nοrdeа.dk
 ## Slides
 
 [Slides](https://github.com/SecurityDatFall2018/Week-13/blob/master/Social%20Engineering%20and%20DoS.pptx)
+
+## Exercise
+
+Create a socketbased HTTP POST DoS Attack
+
+[Example Code](https://github.com/SecurityDatFall2018/Week-13-Code)
